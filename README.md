@@ -1,5 +1,4 @@
-# radicaljs
- radical
+radical
 =======
 
 This library is a jQuery plugin for create web apps jsless.
